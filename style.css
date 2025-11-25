@@ -132,3 +132,7 @@ a{
 .venue-map{
     height: 264px;
 }
+
+.row{
+    margin: 30px;
+}
