@@ -136,3 +136,10 @@ a{
 .row{
     margin: 30px;
 }
+.main ul{
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 20px;
+  float: right;
+}
